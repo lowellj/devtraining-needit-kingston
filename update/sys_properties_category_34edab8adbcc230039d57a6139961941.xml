@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-22 17:16:55</sys_created_on>
+        <sys_id>34edab8adbcc230039d57a6139961941</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_34edab8adbcc230039d57a6139961941</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-22 17:16:55</sys_updated_on>
+        <title><![CDATA[<p> </p>
+<table><tbody><tr><td><span style="font-size: 24pt;"><img style="align: texttop;" title="cloud" src="sys_attachment.do?sys_id&#61;89107b46dbcc230039d57a613996192c" alt="picture of cloud" width="70" height="45" align="texttop" /></span> </td><td style="text-align: center;"><span style="font-size: 24pt;">NeedIt Properties<br /></span><span style="color: #3366ff;"><em>Get them all here!</em></span></td></tr></tbody></table>
+<p> </p>
+<p> </p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=34edab8adbcc230039d57a6139961941"/>
+</record_update>
